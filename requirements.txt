@@ -4,3 +4,4 @@ geojson==1.0.7
 numpy==1.9.2
 protobuf==3.0.0b3
 requests-futures==0.9.7
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
